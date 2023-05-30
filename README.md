@@ -14,7 +14,7 @@
 ```
  ### Windows App
 ```
-./InventoryManagement/Mac/dist/StockManagement.exe
+./InventoryManagement/windows/dist/StockManagement.exe
 ```
 PS: Done with the help of chatGPT
 
