@@ -1,0 +1,3 @@
+([('StockManagement',
+   '/Volumes/Mohamed/SupplifyPOS/dist/StockManagement',
+   'EXECUTABLE')],)
